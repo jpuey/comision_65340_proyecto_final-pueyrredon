@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "nombre": "Dark Souls 1",
+        "precio": 32,
+        "lanzamiento": 2011,
+        "imagen":"https://i.pinimg.com/736x/7d/f8/71/7df8717b2c1d8341ba684519fafab05f.jpg",
+        "desc": "Después de escapar por poco de un destino fatal en un manicomio, un guerrero no muerto se abre paso a través de los desolados restos de Lordran"
+
+
+
+    },
+    
+    {
+        "id": 2,
+        "nombre": "Dark Souls 2",
+        "precio": 32,
+        "lanzamiento": 2014,
+        "imagen": "https://i.pinimg.com/736x/76/79/86/767986938d61f360455276bdd1046e52.jpg",
+        "desc": "Un no-muerto viaja al reino caído de Drangleic y el Heraldo Esmeralda le encarga obtener cuatro Grandes Almas de otros poderosos no-muertos"
+
+    },
+
+    {
+        "id": 3,
+        "nombre": "Dark Souls 3",
+        "precio": 68,
+        "lanzamiento": 2016,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/b/bb/Dark_souls_3_cover_art.jpg",
+        "desc": "Los jugadores toman el papel de un personaje humano no-muerto que ha sido elegido para realizar un peregrinaje para descubrir el destino de los no muertos."
+    },
+
+    {
+        "id": 4,
+        "nombre": "Bloodborne",
+        "precio": 20,
+        "lanzamiento": 2015,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg",
+        "desc": "El juego sigue a un cazador a través de la decrépita ciudad gótica de Yharnam, inspirada en la era victoriana, cuyos habitantes padecen una enfermedad transmitida por la sangre que transforma a los residentes, llamados Yharnamitas, en horribles bestias."
+    },
+
+    {
+        "id": 5,
+        "nombre": "Sekiro Shadows Die Twice",
+        "precio": 30,
+        "lanzamiento": 2019,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg",
+        "desc": "Los jugadores controlan a Wolf, un shinobi que se embarca en una búsqueda para rescatar a su señor y se ve envuelto en un conflicto por el destino de Ashina ."
+    },
+
+    {
+        "id": 6,
+        "nombre": "Elden Ring",
+        "precio": 29,
+        "lanzamiento": 2022,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg",
+        "desc": "Los aspectos básicos de la historia de Elden Ring son que las Tierras Intermedias fueron bendecidas por la Gran Voluntad (un tipo de dios incognoscible obsesionado con el orden sobre el caos), quien envió el Anillo de Elden, un objeto mágico de gran poder que en realidad no es un anillo para usar, pero cambió las Tierras Intermedias según sus caprichos."
+        
+    },
+
+    {
+        "id": 7,
+        "nombre": "Nioh",
+        "precio": 10,
+        "lanzamiento": 2017,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/f/fd/Nioh_cover_art.jpg",
+        "desc": "Un navegante occidental se encuentra en Japón y se encuentra con la guerra y los demonios en su búsqueda y hallazgo . "
+    },
+
+    {
+        "id": 8,
+        "nombre": "Nioh 2",
+        "precio": 23,
+        "lanzamiento": 2020,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/9/91/Nioh_2_cover_art.jpg",
+        "desc": "El viaje de Hidechiyo a través de la Era Sengoku comienza cuando se hacen amigos de Tōkichirō, un ambicioso comerciante que busca Amrita, y Mumyo (無明, Mumyō), un cazador de demonios del grupo Sohaya, que eventualmente juega un papel crítico en el ascenso y caída del señor de la guerra Toyotomi Hideyoshi."
+    },
+
+    {
+        "id": 9,
+        "nombre": "Lies of P",
+        "precio": 22,
+        "lanzamiento": 2023,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/d/de/Lies_of_p_cover_art.jpg",
+        "desc": "Basada vagamente en la novela de Carlo Collodi de 1883, Las aventuras de Pinocho, la historia sigue al títere titular atravesando la ciudad ficticia de Krat, plagada tanto por una epidemia de enfermedad de petrificación como por un levantamiento de títeres ."
+    },
+
+    {
+        "id": 10,
+        "nombre": "Code Vein",
+        "precio": 8,
+        "lanzamiento": 2019,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/8/8c/Code_vein.png",
+        "desc": "En un futuro no muy distante, un misterioso desastre ha destruido el mundo tal y como lo conocemos. Los altos rascacielos, antaño símbolos de prosperidad, ahora son tumbas sin vida del pasado de la humanidad empaladas por las Espinas del juicio."
+    },
+
+    {
+        "id": 11,
+        "nombre": "Salt And Sanctuary",
+        "precio": 5,
+        "lanzamiento": 2016,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/b/bf/SaltAndSanctuary.jpg",
+        "desc": "Un desafortunado marinero naufraga en una isla desconocida. En sus brumosos valles, donde numerosos cadáveres cubiertos de musgo y aferrados a sus armas oxidadas parecen observarle con gesto burlón, se pueden percibir unas sombras que se mueven arrastrándose torpemente."
+    },
+
+    {
+        "id": 12,
+        "nombre": "Wo Long Fallen Dinasty",
+        "precio": 22,
+        "lanzamiento": 2023,
+        "imagen": "https://upload.wikimedia.org/wikipedia/en/c/c6/Wo_Long_Fallen_Dynasty_cover.jpeg",
+        "desc": "La historia de un soldado de la milicia que lucha por sobrevivir en los caóticos Tres Reinos . Una fantasía oscura ambientada en la dinastía Han posterior de los Tres Reinos."
+    }
+]
